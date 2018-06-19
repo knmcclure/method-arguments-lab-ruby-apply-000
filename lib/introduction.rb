@@ -1,5 +1,5 @@
-def introduction.rb
+def introduction_with_name
   puts "hi my name is #{name}"
   puts "I am learning to program in #{language}"
 end
-introduction.rb
+introduction_with_name
